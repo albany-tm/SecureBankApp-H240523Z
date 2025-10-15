@@ -1,0 +1,2 @@
+username,salt,hash,failedAttempts,locked
+albany,ROTa6tEPFGOmZUvpW6637g==,94N/bM8QFTQL2KPZ398HSBAJpbYen7Vixc+w/rs4rUA=,0,false
